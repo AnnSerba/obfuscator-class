@@ -1,0 +1,24 @@
+{
+  "name": "obfuscator-class",
+  "version": "1.0.0",
+  "description": "obfuscator-class",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^2.5.3"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AnnSerba/obfuscator-class.git"
+  },
+  "author": "AnnSerba",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AnnSerba/obfuscator-class/issues"
+  },
+  "homepage": "https://github.com/AnnSerba/obfuscator-class#readme"
+}
